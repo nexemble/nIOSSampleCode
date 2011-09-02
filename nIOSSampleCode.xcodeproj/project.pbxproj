@@ -440,6 +440,7 @@
 				F4344DA214111B3E00FA4051 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F4344DA314111B3E00FA4051 /* Build configuration list for PBXNativeTarget "nIOSSampleCodeTests" */ = {
 			isa = XCConfigurationList;
@@ -448,6 +449,7 @@
 				F4344DA514111B3E00FA4051 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
